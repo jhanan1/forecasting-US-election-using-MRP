@@ -23,7 +23,7 @@ census_data2 <- read_csv("/Users/ananyajha/forecasting-US-election-using-MRP/out
 
 ```
 
-Code and data supporting this analysis is available at: https://github.com/jhanan1/forecasting-US-election-using-MRP
+Code and data supporting this analysis is available at: https://github.com/jhanan1/forecasting-2020-US-election-results
 
 \newpage
 
